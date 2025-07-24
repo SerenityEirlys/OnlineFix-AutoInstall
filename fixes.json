@@ -1,12 +1,6 @@
 {
     "fixes": [
-        {
-            "appid": "3527290",
-            "download_url": "https://example.com/downloads/3527290_fix.zip"
-        },
-        {
-            "appid": "1234567",
-            "download_url": "https://example.com/downloads/1234567_fix.zip"
-        }
+        {"appid": "3527290"},
+        {"appid": "1234567"}
     ]
 }
